@@ -1,6 +1,7 @@
 import win32com.client
 import csv
 import re
+import mailbox
 
 dict_header = {
     'body': ''
@@ -25,10 +26,13 @@ message_id = re.search(r'Message-ID:\s<(.*?)>', internet_header).group(1) # <.*?
 print("Message ID: " + message_id)
 
 # print("\n") #
-subject_id = re.search(r'Subject:\s(.*)', internet_header).group(1) # <.*> Greedy repetition: matches "<python>perl>" Link: https://www.tutorialspoint.com/python/python_reg_expressions.htm
-print("Subject: " + subject_id)
+# subject_id = re.search(r'Subject:\s(.*)', internet_header).group(1) # <.*> Greedy repetition: matches "<python>perl>" Link: https://www.tutorialspoint.com/python/python_reg_expressions.htm
+msg = mailbox.mboxMessage()
+# subject_id =
+print(msg['Subject'])
+# print("Subject: " + subject_id)
 
-print(mess)
+# print(mess)
 # with open('headers.csv', 'w', newline='') as csvfile:
 #     header_writer = csv.writer(csvfile, delimiter='\t', quotechar='|')
 #     # header_writer.writerow(internet_header)
