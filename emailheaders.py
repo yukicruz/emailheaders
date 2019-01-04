@@ -24,10 +24,11 @@ internet_header = message.PropertyAccessor.GetProperty("http://schemas.microsoft
 message_id = re.search(r'Message-ID:\s<(.*?)>', internet_header).group(1) # <.*?> Nongreedy: matches "<python>" in "<python>perl>" # https://stackoverflow.com/questions/4666973/how-to-extract-the-substring-between-two-markers
 print("Message ID: " + message_id)
 
-print("\n")
-subject_id = re.search(r'Subject:\s(.*?)', internet_header).group(1)
+# print("\n") #
+subject_id = re.search(r'Subject:\s(.*)', internet_header).group(1) # <.*> Greedy repetition: matches "<python>perl>" Link: https://www.tutorialspoint.com/python/python_reg_expressions.htm
 print("Subject: " + subject_id)
 
+print(mess)
 # with open('headers.csv', 'w', newline='') as csvfile:
 #     header_writer = csv.writer(csvfile, delimiter='\t', quotechar='|')
 #     # header_writer.writerow(internet_header)
@@ -81,4 +82,3 @@ def results_header():
     writer = csv.writer(outfile)
     writer.writerow(["key", "value"]) # https://stackoverflow.com/questions/34283178/typeerror-a-bytes-like-object-is-required-not-str-in-python-and-csv
     writer.writerows(dict_header.items());
->>>>>>> 6bbf4c255c46bbb6c5d9e828e864baccdfe2c07d
