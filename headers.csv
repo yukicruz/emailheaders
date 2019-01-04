@@ -1,98 +1,2 @@
-R	e	c	e	i	v	e	d	:	 	f	r	o	m	 	B	Y	A	P	R	0	9	M	B	2	5	9	9	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	 	(	5	2	.	1	3	5	.	2	2	6	.	1	4	1	)	 	b	y	||	|
-|	 	B	Y	A	P	R	0	9	M	B	2	5	9	9	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	 	(	5	2	.	1	3	5	.	2	2	6	.	1	4	1	)	 	w	i	t	h	 	M	i	c	r	o	s	o	f	t	 	S	M	T	P	||	|
-|	 	S	e	r	v	e	r	 	(	v	e	r	s	i	o	n	=	T	L	S	1	_	2	,	 	c	i	p	h	e	r	=	T	L	S	_	E	C	D	H	E	_	R	S	A	_	W	I	T	H	_	A	E	S	_	2	5	6	_	G	C	M	_	S	H	A	3	8	4	)	 	i	d	||	|
-|	 	1	5	.	2	0	.	1	4	7	1	.	2	0	 	v	i	a	 	M	a	i	l	b	o	x	 	T	r	a	n	s	p	o	r	t	;	 	F	r	i	,	 	2	8	 	D	e	c	 	2	0	1	8	 	0	1	:	3	6	:	1	7	 	+	0	0	0	0	||	|
-|	R	e	c	e	i	v	e	d	:	 	f	r	o	m	 	B	N	1	P	R	0	9	M	B	0	2	4	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	 	(	1	0	.	1	6	0	.	8	0	.	1	6	)	 	b	y	||	|
-|	 	B	Y	A	P	R	0	9	M	B	2	5	9	9	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	 	(	5	2	.	1	3	5	.	2	2	6	.	1	4	1	)	 	w	i	t	h	 	M	i	c	r	o	s	o	f	t	 	S	M	T	P	||	|
-|	 	S	e	r	v	e	r	 	(	v	e	r	s	i	o	n	=	T	L	S	1	_	2	,	 	c	i	p	h	e	r	=	T	L	S	_	E	C	D	H	E	_	R	S	A	_	W	I	T	H	_	A	E	S	_	2	5	6	_	G	C	M	_	S	H	A	3	8	4	)	 	i	d	||	|
-|	 	1	5	.	2	0	.	1	4	7	1	.	2	0	;	 	F	r	i	,	 	2	8	 	D	e	c	 	2	0	1	8	 	0	1	:	3	6	:	1	6	 	+	0	0	0	0	||	|
-|	A	u	t	h	e	n	t	i	c	a	t	i	o	n	-	R	e	s	u	l	t	s	:	 	h	a	w	a	i	i	.	g	o	v	;	 	d	k	i	m	=	n	o	n	e	 	(	m	e	s	s	a	g	e	 	n	o	t	 	s	i	g	n	e	d	)	||	|
-|	 	h	e	a	d	e	r	.	d	=	n	o	n	e	;	h	a	w	a	i	i	.	g	o	v	;	 	d	m	a	r	c	=	n	o	n	e	 	a	c	t	i	o	n	=	n	o	n	e	 	h	e	a	d	e	r	.	f	r	o	m	=	n	c	r	i	c	.	c	a	.	g	o	v	;	||	|
-|	R	e	c	e	i	v	e	d	:	 	f	r	o	m	 	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	 	(	2	0	.	1	7	8	.	0	.	2	1	1	)	 	b	y	||	|
-|	 	B	N	1	P	R	0	9	M	B	0	2	4	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	 	(	1	0	.	1	6	0	.	8	0	.	1	6	)	 	w	i	t	h	 	M	i	c	r	o	s	o	f	t	 	S	M	T	P	||	|
-|	 	S	e	r	v	e	r	 	(	v	e	r	s	i	o	n	=	T	L	S	1	_	2	,	 	c	i	p	h	e	r	=	T	L	S	_	E	C	D	H	E	_	R	S	A	_	W	I	T	H	_	A	E	S	_	2	5	6	_	G	C	M	_	S	H	A	3	8	4	)	 	i	d	||	|
-|	 	1	5	.	2	0	.	1	4	7	1	.	2	0	;	 	F	r	i	,	 	2	8	 	D	e	c	 	2	0	1	8	 	0	1	:	3	6	:	1	4	 	+	0	0	0	0	||	|
-|	R	e	c	e	i	v	e	d	:	 	f	r	o	m	 	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	||	|
-|	 	(	[	f	e	8	0	:	:	a	3	:	1	4	2	7	:	3	e	0	0	:	b	e	2	6	]	)	 	b	y	 	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	||	|
-|	 	(	[	f	e	8	0	:	:	a	3	:	1	4	2	7	:	3	e	0	0	:	b	e	2	6	%	4	]	)	 	w	i	t	h	 	m	a	p	i	 	i	d	 	1	5	.	2	0	.	1	4	7	1	.	0	1	9	;	 	F	r	i	,	 	2	8	 	D	e	c	 	2	0	1	8	||	|
-|	 	0	1	:	3	6	:	1	3	 	+	0	0	0	0	||	|
-|	C	o	n	t	e	n	t	-	T	y	p	e	:	 	a	p	p	l	i	c	a	t	i	o	n	/	m	s	-	t	n	e	f	;	 	n	a	m	e	=	"	w	i	n	m	a	i	l	.	d	a	t	"	||	|
-|	C	o	n	t	e	n	t	-	T	r	a	n	s	f	e	r	-	E	n	c	o	d	i	n	g	:	 	b	i	n	a	r	y	||	|
-|	F	r	o	m	:	 	D	u	t	y	O	f	f	i	c	e	r	 	<	D	u	t	y	O	f	f	i	c	e	r	@	n	c	r	i	c	.	c	a	.	g	o	v	>	||	|
-|	T	o	:	 	"	S	y	l	v	e	s	t	e	r	,	 	P	a	u	l	 	S	"	 	<	p	a	u	l	.	s	.	s	y	l	v	e	s	t	e	r	@	h	a	w	a	i	i	.	g	o	v	>	,	 	D	u	t	y	O	f	f	i	c	e	r	||	|
-|	|	|	<	D	u	t	y	O	f	f	i	c	e	r	@	n	c	r	i	c	.	c	a	.	g	o	v	>	||	|
-|	C	C	:	 	"	E	p	s	t	e	i	n	,	 	P	a	u	l	 	S	"	 	<	p	a	u	l	.	s	.	e	p	s	t	e	i	n	@	h	a	w	a	i	i	.	g	o	v	>	,	 	"	S	a	g	u	n	,	 	A	r	n	o	l	d	 	P	"	||	|
-|	|	|	<	a	r	n	o	l	d	.	p	.	s	a	g	u	n	@	h	a	w	a	i	i	.	g	o	v	>	||	|
-|	S	u	b	j	e	c	t	:	 	R	E	:	 	R	e	q	u	e	s	t	 	f	o	r	 	I	n	f	o	r	m	a	t	i	o	n	||	|
-|	T	h	r	e	a	d	-	T	o	p	i	c	:	 	R	e	q	u	e	s	t	 	f	o	r	 	I	n	f	o	r	m	a	t	i	o	n	||	|
-|	T	h	r	e	a	d	-	I	n	d	e	x	:	 	A	Q	H	U	n	k	M	k	T	O	t	D	a	u	E	w	c	0	2	y	6	r	S	o	a	J	k	l	M	q	W	T	X	r	j	A	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	M	e	s	s	a	g	e	S	e	n	t	R	e	p	r	e	s	e	n	t	i	n	g	T	y	p	e	:	 	1	||	|
-|	D	a	t	e	:	 	F	r	i	,	 	2	8	 	D	e	c	 	2	0	1	8	 	0	1	:	3	6	:	1	3	 	+	0	0	0	0	||	|
-|	M	e	s	s	a	g	e	-	I	D	:	||	|
-|	 	<	B	Y	A	P	R	0	9	M	B	3	1	7	3	6	3	B	2	A	4	E	0	3	5	9	8	9	2	0	4	4	F	D	1	F	7	B	7	0	@	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	>	||	|
-|	R	e	f	e	r	e	n	c	e	s	:	||	|
-|	 	<	B	Y	A	P	R	0	9	M	B	2	9	5	1	F	1	4	8	1	0	D	4	6	E	3	2	D	4	8	5	0	C	4	0	A	B	B	7	0	@	B	Y	A	P	R	0	9	M	B	2	9	5	1	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	>	||	|
-|	I	n	-	R	e	p	l	y	-	T	o	:	||	|
-|	 	<	B	Y	A	P	R	0	9	M	B	2	9	5	1	F	1	4	8	1	0	D	4	6	E	3	2	D	4	8	5	0	C	4	0	A	B	B	7	0	@	B	Y	A	P	R	0	9	M	B	2	9	5	1	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	>	||	|
-|	A	c	c	e	p	t	-	L	a	n	g	u	a	g	e	:	 	e	n	-	U	S	||	|
-|	C	o	n	t	e	n	t	-	L	a	n	g	u	a	g	e	:	 	e	n	-	U	S	||	|
-|	X	-	M	S	-	H	a	s	-	A	t	t	a	c	h	:	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	S	C	L	:	 	-	1	||	|
-|	X	-	M	S	-	T	N	E	F	-	C	o	r	r	e	l	a	t	o	r	:	||	|
-|	 	<	B	Y	A	P	R	0	9	M	B	3	1	7	3	6	3	B	2	A	4	E	0	3	5	9	8	9	2	0	4	4	F	D	1	F	7	B	7	0	@	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	>	||	|
-|	M	I	M	E	-	V	e	r	s	i	o	n	:	 	1	.	0	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	M	e	s	s	a	g	e	D	i	r	e	c	t	i	o	n	a	l	i	t	y	:	 	O	r	i	g	i	n	a	t	i	n	g	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	A	u	t	h	S	o	u	r	c	e	:	 	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	A	u	t	h	A	s	:	 	I	n	t	e	r	n	a	l	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	A	u	t	h	M	e	c	h	a	n	i	s	m	:	 	0	4	||	|
-|	X	-	O	r	i	g	i	n	a	t	i	n	g	-	I	P	:	 	[	1	2	.	5	2	.	1	0	8	.	1	9	3	]	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	N	e	t	w	o	r	k	-	M	e	s	s	a	g	e	-	I	d	:	||	|
-|	 	f	0	d	b	6	b	3	2	-	f	1	a	f	-	4	1	5	a	-	f	7	6	2	-	0	8	d	6	6	c	6	4	d	a	5	8	||	|
-|	X	-	M	S	-	P	u	b	l	i	c	T	r	a	f	f	i	c	T	y	p	e	:	 	E	m	a	i	l	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	 	1	;	B	Y	A	P	R	0	9	M	B	3	1	7	3	;	3	5	:	M	i	p	n	9	x	2	x	T	Q	0	v	s	2	K	9	Z	O	Q	0	C	n	W	p	i	g	D	V	p	O	Z	8	x	D	L	t	C	I	0	b	q	a	O	B	l	f	m	L	+	s	O	u	K	1	o	4	I	+	y	E	n	W	K	D	e	N	M	E	+	U	c	N	q	x	c	M	i	Z	4	D	m	z	m	l	D	Q	=	=	||	|
-|	R	e	t	u	r	n	-	P	a	t	h	:	 	D	u	t	y	O	f	f	i	c	e	r	@	n	c	r	i	c	.	c	a	.	g	o	v	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	E	x	p	i	r	a	t	i	o	n	S	t	a	r	t	T	i	m	e	:	 	2	8	 	D	e	c	 	2	0	1	8	 	0	1	:	3	6	:	1	4	.	3	9	1	5	||	|
-|	 	(	U	T	C	)	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	E	x	p	i	r	a	t	i	o	n	S	t	a	r	t	T	i	m	e	R	e	a	s	o	n	:	 	O	r	i	g	i	n	a	l	S	u	b	m	i	t	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	E	x	p	i	r	a	t	i	o	n	I	n	t	e	r	v	a	l	:	 	2	:	0	0	:	0	0	:	0	0	.	0	0	0	0	0	0	0	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	O	r	g	a	n	i	z	a	t	i	o	n	-	E	x	p	i	r	a	t	i	o	n	I	n	t	e	r	v	a	l	R	e	a	s	o	n	:	 	O	r	i	g	i	n	a	l	S	u	b	m	i	t	||	|
-|	X	-	M	S	-	O	f	f	i	c	e	3	6	5	-	F	i	l	t	e	r	i	n	g	-	C	o	r	r	e	l	a	t	i	o	n	-	I	d	:	 	f	0	d	b	6	b	3	2	-	f	1	a	f	-	4	1	5	a	-	f	7	6	2	-	0	8	d	6	6	c	6	4	d	a	5	8	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	A	n	t	i	s	p	a	m	:	||	|
-|	 	B	C	L	:	0	;	P	C	L	:	0	;	R	U	L	E	I	D	:	(	2	3	9	0	1	1	8	)	(	7	0	2	0	0	9	5	)	(	4	6	5	2	0	4	0	)	(	7	0	2	1	1	4	5	)	(	8	9	8	9	2	9	9	)	(	5	6	0	0	1	0	9	)	(	7	1	1	0	2	0	)	(	4	5	3	4	1	8	5	)	(	7	0	2	2	1	4	5	)	(	4	6	0	3	0	7	5	)	(	4	6	2	7	2	2	1	)	(	2	0	1	7	0	2	2	8	1	5	4	9	0	7	5	)	(	8	9	9	0	2	0	0	)	(	7	0	4	8	1	2	5	)	(	7	0	2	4	1	2	5	)	(	7	0	2	7	1	2	5	)	(	7	0	2	3	1	2	5	)	(	2	0	1	7	0	5	2	6	0	3	3	2	8	)	(	7	1	5	3	0	6	0	)	(	7	1	9	3	0	2	0	)	;	S	R	V	R	:	B	N	1	P	R	0	9	M	B	0	2	4	3	;	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	 	1	;	B	N	1	P	R	0	9	M	B	0	2	4	3	;	3	:	5	s	4	n	E	j	S	x	L	z	m	F	6	s	V	K	n	d	/	q	m	J	B	O	G	X	y	3	F	t	X	8	u	U	r	T	u	R	d	P	c	q	O	9	X	N	F	4	7	a	O	D	n	b	Z	2	e	0	2	Z	T	S	W	u	M	A	K	X	C	f	b	z	m	M	l	v	J	0	2	t	4	a	C	Q	t	j	k	i	A	A	9	b	D	d	C	X	H	d	V	l	f	r	y	I	1	k	b	p	u	2	G	G	m	G	K	t	E	l	7	R	u	C	e	8	g	b	N	k	K	B	M	V	N	6	t	c	K	f	J	e	/	e	e	L	C	8	f	X	B	2	8	Q	O	0	y	m	M	1	j	t	q	9	L	1	b	z	U	c	b	v	L	h	G	w	E	z	e	4	c	I	H	s	k	T	W	d	+	p	M	0	7	o	i	W	i	T	i	U	/	W	z	K	z	l	W	2	N	E	i	e	X	N	F	v	h	1	T	z	Y	n	I	s	i	x	3	u	f	8	X	R	Z	Q	2	3	0	d	r	h	T	N	5	+	o	I	Q	0	T	Z	E	+	E	D	m	G	J	R	;	2	5	:	z	g	w	W	0	0	U	N	Q	h	z	P	7	O	p	2	v	A	+	g	o	c	Y	p	4	s	M	b	I	2	J	A	O	O	/	W	i	5	U	Q	/	c	/	2	E	u	E	L	x	o	2	h	I	1	/	X	g	n	b	A	J	R	F	3	W	W	3	K	Y	B	Y	C	T	x	t	d	v	T	k	p	F	v	S	4	7	s	5	s	J	s	C	p	T	a	y	j	c	0	9	G	U	w	E	/	M	m	r	9	+	d	j	7	9	H	x	x	z	T	O	n	4	R	H	T	6	1	p	q	N	4	a	Y	g	B	v	w	j	D	I	5	x	R	U	8	U	3	w	p	v	w	c	B	Y	H	8	y	Q	K	E	n	R	b	7	I	L	j	O	S	1	w	6	S	s	B	4	i	k	c	n	u	2	o	T	L	f	M	i	x	z	i	q	L	M	H	h	H	2	G	W	D	i	2	b	5	k	d	O	A	+	C	0	2	w	V	Y	N	R	L	L	7	T	r	v	I	Q	5	Y	0	4	n	j	I	L	x	n	9	a	n	C	U	k	Y	r	y	a	v	U	Y	4	V	I	s	i	p	y	1	j	0	X	R	/	F	D	6	7	O	N	9	z	b	1	a	+	q	q	u	p	f	f	u	7	j	c	b	U	d	y	O	+	5	T	G	L	n	E	f	4	k	0	t	G	n	j	x	p	6	m	/	E	z	1	Z	y	7	b	3	K	k	c	0	5	w	n	r	x	B	2	V	f	d	m	o	j	R	G	5	l	m	u	H	x	6	U	j	2	t	C	r	v	9	6	g	D	i	L	a	t	A	P	t	4	c	A	=	;	3	1	:	Q	T	S	B	C	8	o	s	G	v	u	q	v	A	Q	d	V	R	5	P	u	9	2	w	H	c	W	R	u	0	w	i	n	Y	a	o	k	P	0	i	x	m	u	c	V	J	k	O	U	Z	I	i	W	V	C	Q	U	7	T	9	z	r	/	i	d	A	c	P	g	S	E	Q	4	S	v	E	E	Y	w	W	M	A	6	r	R	w	I	b	Y	Z	b	I	h	N	y	+	3	U	Z	8	o	N	m	n	u	S	i	D	I	P	z	j	s	H	I	L	Y	B	Z	n	r	g	P	C	k	h	k	R	F	Z	H	r	T	G	3	S	a	8	m	L	i	+	3	+	4	R	n	p	5	9	G	E	4	G	j	o	w	X	d	g	S	b	L	X	8	S	w	0	1	u	8	J	t	r	r	/	M	6	z	S	f	z	8	5	6	h	m	9	o	Q	N	L	R	d	c	m	F	C	J	i	5	O	z	b	j	S	j	7	T	T	O	3	M	7	U	Q	5	2	p	O	e	U	R	z	p	6	Z	L	+	F	n	Q	m	B	0	=	||	|
-|	X	-	M	S	-	T	r	a	f	f	i	c	T	y	p	e	D	i	a	g	n	o	s	t	i	c	:	 	B	N	1	P	R	0	9	M	B	0	2	4	3	:	||||	B	N	1	P	R	0	9	M	B	0	2	4	3	:	||||	B	Y	A	P	R	0	9	M	B	2	5	9	9	:	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	A	t	p	M	e	s	s	a	g	e	P	r	o	p	e	r	t	i	e	s	:	 	s	a	p	=	1	;	s	l	p	=	1	;	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	 	1	;	B	N	1	P	R	0	9	M	B	0	2	4	3	;	2	0	:	h	F	b	K	3	2	/	W	E	c	I	7	m	P	V	q	t	q	W	l	D	r	P	q	/	e	V	o	X	b	3	C	U	/	a	c	g	Y	h	7	u	v	F	3	l	K	0	T	B	c	F	8	3	+	r	R	l	/	d	o	b	R	t	G	q	7	w	V	m	d	6	v	p	N	2	r	k	A	v	V	x	v	f	s	H	m	P	H	p	3	e	g	M	x	f	g	Y	G	N	r	h	T	s	P	J	0	X	b	f	O	/	s	o	k	2	n	w	f	T	l	4	u	3	z	S	0	4	Z	R	I	J	L	4	u	J	8	I	6	a	8	5	/	C	O	l	H	O	2	Q	k	d	t	y	y	k	L	c	7	U	8	f	I	3	n	O	5	8	0	+	8	j	n	k	n	8	T	x	L	A	M	o	u	R	+	c	1	O	Z	Z	o	s	b	r	d	K	w	G	3	8	X	Q	J	y	y	W	8	T	O	q	B	m	m	z	9	n	Y	q	k	r	3	s	Y	m	N	a	9	M	w	Z	r	t	H	5	z	Q	V	p	7	P	U	X	U	g	G	u	x	x	e	x	/	t	d	Y	T	l	N	l	H	X	S	f	N	o	G	j	I	8	G	1	G	p	9	1	T	j	9	h	h	b	Z	0	S	4	c	o	K	g	+	Q	3	I	k	S	9	d	H	1	B	Y	J	g	h	l	7	U	A	Y	J	r	y	Z	W	t	0	i	B	N	9	q	C	9	m	Q	D	1	B	9	V	F	0	G	x	9	a	A	h	8	v	V	i	s	E	Z	P	u	Z	a	q	X	e	z	c	G	s	1	S	5	b	8	B	f	c	k	E	x	I	W	g	X	H	Z	+	z	S	O	K	P	s	b	w	X	v	+	a	W	Y	S	I	V	2	A	d	T	a	W	b	g	w	B	s	9	Q	p	q	P	T	+	7	Q	e	B	c	q	J	o	W	8	+	b	x	G	d	z	T	8	E	w	2	B	K	3	R	7	t	H	p	G	9	5	I	a	f	H	v	S	t	0	B	y	j	2	F	P	Q	7	X	E	S	y	f	e	K	N	D	2	a	u	E	L	7	w	9	W	O	E	w	2	F	p	s	V	o	v	i	6	m	h	H	k	F	s	E	k	n	T	t	P	N	B	O	e	X	5	d	p	K	h	7	h	w	Y	K	;	4	:	4	Q	K	S	L	/	0	C	d	I	R	G	m	B	S	Q	a	7	5	l	3	8	V	V	s	B	d	J	w	k	P	q	S	l	c	I	W	n	C	y	o	t	m	l	g	X	h	j	a	4	+	m	Q	q	4	5	P	X	y	R	o	I	z	3	D	X	e	a	h	J	B	7	T	2	k	h	K	y	M	j	S	k	z	q	A	4	W	V	/	J	2	r	k	W	d	z	B	G	e	2	M	m	G	W	6	b	5	Q	W	V	b	E	w	v	G	4	s	a	r	4	t	V	2	z	Q	Z	X	E	9	T	6	0	v	c	o	X	f	i	n	4	O	f	b	i	o	I	a	E	B	q	f	p	N	Y	A	h	t	o	P	y	G	v	o	F	e	S	T	f	K	a	f	r	r	X	z	5	j	F	v	t	R	w	r	D	G	v	k	A	Z	o	6	Q	s	T	s	J	F	J	3	R	0	h	3	J	Q	t	M	i	G	u	H	+	X	T	Q	M	l	b	M	V	8	1	9	W	8	4	X	3	q	W	M	4	G	x	3	6	L	G	g	6	j	j	m	Q	1	8	A	l	m	S	g	T	O	X	H	5	U	d	m	Y	r	V	c	m	1	P	X	b	b	s	A	s	G	B	8	e	9	A	=	=	||	|
-|	X	-	E	x	c	h	a	n	g	e	-	A	n	t	i	s	p	a	m	-	R	e	p	o	r	t	-	C	F	A	-	T	e	s	t	:	||	|
-|	 	B	C	L	:	0	;	P	C	L	:	0	;	R	U	L	E	I	D	:	(	3	2	3	0	0	2	1	)	(	9	9	9	0	0	2	)	(	2	0	1	8	0	8	0	1	1	0	2	)	(	2	4	0	1	0	4	7	)	(	8	1	2	1	5	0	1	0	4	6	)	(	8	2	3	3	0	0	2	6	4	)	(	8	2	3	3	2	0	0	9	5	)	(	3	0	0	2	0	0	1	)	(	1	0	2	0	1	5	0	1	0	4	6	)	(	9	3	0	0	6	0	9	5	)	(	9	3	0	0	1	0	9	5	)	(	3	2	3	1	4	7	5	)	(	9	4	4	5	0	1	5	2	0	)	(	5	2	1	0	5	1	1	2	)	(	2	0	1	7	0	8	0	7	1	7	4	2	0	1	1	)	(	7	6	9	9	0	5	1	)	(	7	6	9	9	1	0	9	5	)	;	S	R	V	R	:	B	N	1	P	R	0	9	M	B	0	2	4	3	;	B	C	L	:	0	;	P	C	L	:	0	;	R	U	L	E	I	D	:	;	S	R	V	R	:	B	N	1	P	R	0	9	M	B	0	2	4	3	;	||	|
-|	X	-	F	o	r	e	f	r	o	n	t	-	A	n	t	i	s	p	a	m	-	R	e	p	o	r	t	:	||	|
-|	 	S	F	V	:	S	K	I	;	S	F	S	:	;	D	I	R	:	I	N	B	;	S	F	P	:	;	S	C	L	:	-	1	;	S	R	V	R	:	B	N	1	P	R	0	9	M	B	0	2	4	3	;	H	:	B	Y	A	P	R	0	9	M	B	3	1	7	3	.	n	a	m	p	r	d	0	9	.	p	r	o	d	.	o	u	t	l	o	o	k	.	c	o	m	;	F	P	R	:	;	S	P	F	:	N	o	n	e	;	L	A	N	G	:	e	n	;	;	S	K	I	P	:	2	;	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	 	1	;	B	N	1	P	R	0	9	M	B	0	2	4	3	;	2	3	:	W	3	p	K	n	F	O	7	b	d	1	7	U	R	n	6	u	o	X	/	q	d	z	0	+	7	9	D	B	t	z	s	0	F	6	k	7	M	0	M	E	s	6	F	f	k	u	M	a	k	g	A	G	M	y	L	r	7	q	Q	U	s	p	m	K	n	6	J	s	D	R	I	S	U	A	1	2	9	S	x	E	r	k	E	A	v	o	L	U	e	h	f	Z	r	F	K	G	y	t	W	I	b	c	r	E	y	9	s	a	c	b	j	C	T	q	L	h	F	q	j	0	t	Q	M	D	5	E	i	d	t	X	5	C	e	g	B	t	+	L	S	a	9	M	5	P	u	Z	k	k	g	=	=	;	6	:	S	e	e	7	A	p	2	l	Z	x	f	8	Q	g	L	m	D	a	P	Z	6	j	G	q	t	l	D	P	F	a	N	P	r	L	R	j	c	p	4	S	i	t	H	k	I	x	0	3	i	Q	f	d	7	A	1	o	t	+	n	9	p	e	l	+	E	f	A	r	V	2	g	u	0	3	X	z	y	e	U	V	g	X	C	z	V	v	0	6	u	9	d	z	M	/	2	1	7	j	e	U	7	g	v	N	u	K	7	+	9	m	T	h	N	+	5	3	S	v	Z	f	W	U	f	+	R	W	6	F	R	H	B	+	O	A	B	G	Y	s	t	c	M	Q	J	V	S	m	f	7	T	z	g	5	W	R	q	r	/	J	c	Z	H	g	j	1	E	3	7	y	B	Z	V	K	S	H	b	A	H	L	l	x	K	5	w	v	a	w	8	j	r	r	f	8	N	j	S	F	M	2	G	7	L	j	J	h	f	m	U	N	1	K	K	Y	9	w	Q	3	T	D	P	Y	E	7	A	l	1	9	+	Y	W	7	i	c	d	j	6	I	O	Z	t	d	k	p	F	w	1	X	1	/	A	p	V	Y	b	w	/	o	F	a	C	N	T	i	m	I	n	K	T	f	Q	K	4	I	P	Z	D	V	7	q	R	Q	P	t	J	b	t	N	i	h	S	8	5	3	U	7	Z	M	y	K	o	o	b	g	K	B	f	O	n	U	d	2	H	3	u	S	A	U	H	/	V	A	/	4	l	W	n	w	E	N	m	Y	c	K	n	3	s	4	r	V	t	T	d	8	V	7	w	u	R	P	U	/	B	I	X	s	P	p	J	U	5	A	R	S	m	K	d	1	A	h	f	+	z	F	K	a	D	t	p	+	w	K	8	D	U	q	w	l	U	q	b	S	W	m	M	Y	0	X	v	2	L	u	v	2	Y	S	i	x	j	0	W	W	i	X	+	G	4	l	w	o	e	j	f	c	J	s	C	8	b	H	S	6	I	p	K	S	S	k	+	D	c	d	2	D	Q	T	x	r	x	F	A	5	U	T	V	n	y	L	y	P	L	K	o	P	y	H	S	s	B	m	m	Q	=	=	;	5	:	6	o	Y	o	h	S	A	t	l	s	x	3	w	T	9	S	v	v	U	K	7	w	H	E	a	G	o	S	m	v	7	N	R	o	P	4	r	m	N	d	0	8	p	3	Z	W	A	v	T	U	l	3	6	r	N	2	Z	S	t	f	e	c	d	g	c	D	x	S	C	X	X	D	y	c	z	2	H	l	f	7	I	R	y	i	E	3	4	r	L	e	x	/	m	1	2	5	Y	h	L	k	1	K	x	e	4	P	X	t	J	2	z	b	R	J	e	c	Q	d	j	8	t	U	Z	Q	2	U	N	e	p	N	Z	7	e	x	y	o	A	d	6	H	K	f	r	8	N	j	G	E	d	f	M	g	B	Y	g	C	X	k	2	4	l	O	O	R	a	2	R	u	M	S	Q	=	||	|
-|	S	p	a	m	D	i	a	g	n	o	s	t	i	c	O	u	t	p	u	t	:	 	1	:	0	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	 	1	;	B	N	1	P	R	0	9	M	B	0	2	4	3	;	7	:	l	D	0	L	j	4	L	2	n	H	3	1	J	F	8	u	o	1	b	k	9	I	3	1	m	e	9	p	r	v	r	D	Y	0	b	A	i	s	j	D	r	P	r	W	L	l	c	K	z	Q	n	o	k	Y	a	u	o	g	M	O	3	Z	Y	4	E	j	Z	0	o	a	c	R	T	p	j	T	O	P	Q	t	L	U	V	O	t	N	F	T	K	n	d	V	j	y	m	s	6	P	0	f	k	K	n	t	/	h	d	A	F	I	1	c	2	1	f	3	O	c	0	s	i	Z	2	A	9	R	G	3	5	H	P	h	O	U	y	7	V	J	b	+	6	F	q	E	N	s	I	h	W	A	=	=	;	2	0	:	v	p	o	e	A	m	y	L	1	/	q	y	l	Z	E	U	b	J	U	z	W	c	K	B	2	y	e	g	k	h	y	c	1	A	n	N	E	t	k	z	y	6	2	w	U	l	M	q	c	N	J	G	v	6	u	x	9	n	A	J	X	c	Z	X	B	2	A	m	u	0	v	2	K	Q	n	A	M	n	V	w	+	7	n	X	c	T	m	I	y	X	Z	u	2	v	o	J	m	H	T	u	6	9	L	Y	l	i	K	S	O	Y	P	i	f	l	2	f	K	u	j	1	M	z	U	/	8	b	/	m	F	k	h	R	q	7	t	a	t	X	O	d	T	t	+	Z	J	D	u	S	r	i	C	f	x	U	5	S	h	r	Q	s	T	g	Q	o	5	8	y	N	+	z	x	n	6	R	3	V	T	l	S	i	d	o	k	r	u	9	q	U	U	k	B	a	V	a	R	4	/	3	Q	K	h	m	u	P	N	p	/	S	D	i	S	I	l	j	D	0	N	9	q	U	H	v	9	I	+	R	3	j	Y	8	D	c	e	r	Z	q	s	4	b	i	4	o	Q	E	A	d	H	f	G	v	O	i	Z	c	4	m	t	m	Y	h	H	o	g	C	x	J	b	V	l	l	v	e	3	M	C	n	S	7	a	U	1	n	B	Y	K	4	5	k	j	T	3	D	5	5	w	C	f	8	e	3	D	6	Z	y	b	i	7	H	4	w	7	2	5	O	o	+	Q	n	7	w	n	r	b	g	s	X	v	7	o	P	F	L	R	y	n	J	P	4	B	X	A	7	q	P	g	j	p	6	A	R	n	y	a	8	k	E	/	N	o	D	z	p	0	H	9	t	g	g	v	V	y	5	m	2	x	I	f	Y	p	I	9	J	n	R	p	v	R	I	P	e	m	m	V	j	h	H	l	6	0	N	Z	M	V	N	G	u	I	w	9	k	E	+	r	V	e	9	z	q	N	f	L	t	e	F	I	M	h	V	W	r	j	n	4	E	Q	7	m	4	Z	q	F	E	j	b	B	v	/	Z	3	s	U	R	X	6	h	1	M	f	J	Z	G	C	Z	T	+	Y	B	G	k	s	K	C	l	X	O	X	m	R	U	r	V	c	m	c	d	s	b	C	8	O	B	e	B	f	y	d	W	g	6	r	z	q	U	h	l	J	T	W	7	i	H	g	;	2	3	:	D	C	C	p	S	5	R	t	E	6	M	S	Z	N	5	B	X	Z	5	c	n	L	R	0	A	Y	y	e	V	9	o	k	1	/	b	n	a	J	k	L	N	E	b	l	5	v	U	z	t	z	h	j	B	E	I	A	D	H	Y	P	9	n	h	R	M	z	8	f	F	8	r	u	/	h	P	P	p	D	E	B	H	S	s	s	x	C	x	n	j	X	s	m	/	k	l	S	M	A	J	T	+	X	x	O	9	m	k	d	7	8	L	I	h	P	M	U	1	+	y	Z	z	H	F	x	j	R	r	Q	N	a	x	M	J	L	t	0	c	a	D	W	F	j	J	2	L	g	/	M	7	A	=	=	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	I	n	b	o	x	-	R	u	l	e	s	-	L	o	o	p	:	 	D	u	t	y	O	f	f	i	c	e	r	@	n	c	r	i	c	.	c	a	.	g	o	v	||	|
-|	X	-	A	u	t	o	-	R	e	s	p	o	n	s	e	-	S	u	p	p	r	e	s	s	:	 	D	R	,	 	R	N	,	 	N	R	N	,	 	O	O	F	,	 	A	u	t	o	R	e	p	l	y	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	C	r	o	s	s	T	e	n	a	n	t	-	O	r	i	g	i	n	a	l	A	r	r	i	v	a	l	T	i	m	e	:	 	2	8	 	D	e	c	 	2	0	1	8	 	0	1	:	3	6	:	1	3	.	1	7	0	4	||	|
-|	 	(	U	T	C	)	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	C	r	o	s	s	T	e	n	a	n	t	-	F	r	o	m	E	n	t	i	t	y	H	e	a	d	e	r	:	 	H	o	s	t	e	d	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	C	r	o	s	s	T	e	n	a	n	t	-	I	d	:	 	6	8	b	9	e	b	1	f	-	2	2	d	9	-	4	6	8	f	-	9	9	f	9	-	d	6	9	9	2	d	1	e	6	7	0	9	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	C	r	o	s	s	T	e	n	a	n	t	-	N	e	t	w	o	r	k	-	M	e	s	s	a	g	e	-	I	d	:	 	f	0	d	b	6	b	3	2	-	f	1	a	f	-	4	1	5	a	-	f	7	6	2	-	0	8	d	6	6	c	6	4	d	a	5	8	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	T	r	a	n	s	p	o	r	t	-	C	r	o	s	s	T	e	n	a	n	t	H	e	a	d	e	r	s	S	t	a	m	p	e	d	:	 	B	N	1	P	R	0	9	M	B	0	2	4	3	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	 	1	;	B	Y	A	P	R	0	9	M	B	2	5	9	9	;	2	3	:	M	L	h	+	+	9	v	F	o	S	Z	x	+	d	R	q	Z	o	X	+	j	g	e	Y	6	D	t	P	D	P	D	M	U	Q	r	1	a	H	C	I	m	8	j	s	0	t	N	r	x	v	P	k	I	S	Y	P	l	g	g	/	J	W	u	V	J	J	s	z	+	t	u	L	R	6	N	3	d	8	t	M	v	L	h	7	J	g	z	b	K	C	4	f	P	I	I	a	T	c	X	n	Y	T	b	/	I	P	r	Z	i	E	s	C	2	q	s	4	u	J	T	e	B	L	i	q	w	n	z	z	p	t	t	n	3	X	o	M	r	+	C	X	B	T	/	n	t	q	m	V	F	A	=	=	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	T	r	a	n	s	p	o	r	t	-	E	n	d	T	o	E	n	d	L	a	t	e	n	c	y	:	 	0	0	:	0	0	:	0	4	.	2	8	2	4	7	5	8	||	|
-|	X	-	M	S	-	E	x	c	h	a	n	g	e	-	P	r	o	c	e	s	s	e	d	-	B	y	-	B	c	c	F	o	l	d	e	r	i	n	g	:	 	1	5	.	2	0	.	1	4	7	1	.	0	1	9	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	|	|	1	;	B	Y	A	P	R	0	9	M	B	2	5	9	9	;	9	:	Y	0	W	F	0	d	h	0	E	8	2	1	b	C	6	W	p	Y	z	P	y	H	x	I	u	T	/	L	j	k	Q	X	w	N	q	G	E	P	X	b	n	6	5	Z	o	G	m	J	i	N	I	R	S	b	W	4	H	7	L	l	K	/	s	/	o	c	G	f	y	I	I	d	8	o	k	I	s	j	E	l	+	7	E	O	G	h	p	0	G	W	K	7	N	R	r	e	r	r	v	o	N	z	v	L	U	e	w	J	o	a	3	X	L	U	W	m	n	O	8	b	T	t	e	B	1	Q	c	c	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	A	n	t	i	s	p	a	m	-	M	a	i	l	b	o	x	-	D	e	l	i	v	e	r	y	:	||	|
-|	|	|	u	c	f	:	0	;	j	m	r	:	0	;	e	x	:	0	;	a	u	t	h	:	0	;	d	e	s	t	:	I	;	E	N	G	:	(	7	5	0	1	1	9	)	(	5	2	0	0	1	1	0	1	6	)	(	7	0	6	1	5	8	)	(	9	4	4	5	0	6	3	0	3	)	(	9	4	4	6	2	6	5	1	6	)	;	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	A	n	t	i	s	p	a	m	-	M	e	s	s	a	g	e	-	I	n	f	o	:	||	|
-|	|	|	n	U	P	R	p	v	N	h	u	c	B	j	A	P	y	5	O	4	k	K	X	h	7	P	n	5	6	t	d	+	I	s	L	4	g	G	W	R	v	W	1	8	X	S	8	u	x	w	o	w	n	R	Q	P	0	N	k	I	6	U	b	R	t	8	/	M	A	x	+	c	O	Y	d	v	X	M	J	y	t	N	0	2	A	t	U	0	i	J	i	8	s	Y	5	L	f	N	d	1	v	E	J	Q	8	G	N	Q	V	w	L	f	O	0	T	G	x	z	v	l	M	f	Q	d	a	I	L	M	S	t	e	K	4	k	0	4	s	T	q	2	A	5	K	e	S	a	T	k	l	O	8	c	3	d	4	Q	e	R	Z	w	+	r	5	Z	i	X	A	f	0	W	S	3	N	c	a	7	K	j	H	x	4	/	p	e	s	h	u	2	E	R	q	1	a	l	6	V	S	T	r	z	/	q	C	O	U	J	n	O	T	q	r	I	q	G	u	D	p	T	e	r	2	X	L	/	e	4	S	1	e	z	x	e	L	e	1	O	4	J	4	A	q	m	T	R	g	U	S	8	T	0	Z	d	Y	y	h	M	e	6	G	D	z	i	5	M	c	M	Z	f	I	r	G	s	t	U	k	s	w	h	x	b	3	9	i	J	n	U	A	V	o	v	W	v	l	V	M	w	7	Y	b	z	+	0	V	0	2	o	N	K	V	C	A	o	6	H	i	A	I	o	y	a	d	8	w	f	W	Z	i	T	o	f	u	w	C	o	l	0	z	C	v	f	C	C	4	c	Q	2	u	d	V	k	f	9	X	6	x	a	y	n	R	l	X	b	d	B	R	c	f	K	2	s	s	x	B	l	G	r	C	x	V	u	N	a	R	S	Q	H	2	V	6	B	b	M	L	f	L	t	E	x	L	H	I	5	E	G	j	j	f	w	=	=	||	|
-|	X	-	M	i	c	r	o	s	o	f	t	-	E	x	c	h	a	n	g	e	-	D	i	a	g	n	o	s	t	i	c	s	:	||	|
-|	|	|	1	;	B	Y	A	P	R	0	9	M	B	2	5	9	9	;	2	7	:	a	U	g	5	c	u	+	K	0	8	B	M	A	F	X	z	k	G	c	4	P	S	4	9	M	d	M	t	7	P	b	2	u	m	g	1	x	k	e	F	E	m	F	T	z	L	8	m	s	A	A	x	P	e	K	x	4	W	4	e	B	J	v	f	E	v	j	C	N	h	8	u	K	N	s	/	9	0	n	V	b	F	X	W	n	W	O	X	N	J	c	z	r	Q	t	6	N	8	y	m	e	F	s	m	F	I	b	4	r	Y	9	d	4	I	Y	U	W	i	j	3	J	S	T	E	U	c	x	Q	X	7	j	F	T	A	l	V	N	D	I	e	S	a	r	w	r	m	M	F	n	r	g	0	8	4	I	q	t	P	1	G	y	c	O	T	v	s	x	k	n	N	V	S	C	E	5	L	T	N	6	4	D	X	H	J	6	m	G	/	5	1	1	P	W	I	B	O	w	F	K	H	U	h	D	u	Q	q	i	2	K	D	S	2	h	z	9	1	9	L	E	C	h	y	g	R	L	O	f	r	U	C	7	Q	C	r	r	P	8	d	S	n	8	2	6	P	X	A	b	P	y	Z	9	F	7	l	y	Y	k	l	q	P	I	Y	l	U	x	L	h	R	H	a	H	E	t	7	+	d	K	m	B	d	z	+	o	F	c	m	m	w	P	1	a	1	E	d	/	k	X	Q	s	L	V	m	/	u	U	w	b	7	6	k	a	T	Y	6	w	o	E	I	2	j	d	k	K	S	z	+	f	m	L	t	8	5	b	n	j	5	Q	G	U	D	y	m	9	r	3	M	N	B	0	e	s	P	E	S	M	2	I	p	p	r	o	I	O	s	W	U	5	t	4	f	y	z	Q	D	z	J	v	r	6	A	L	A	y	N	X	G	U	+	b	C	K	g	P	X	n	V	f	o	c	w	A	T	z	w	V	g	=	=	||	|
-|
+key	value
+body	
