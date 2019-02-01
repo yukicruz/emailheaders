@@ -47,7 +47,9 @@ recipient_to = message.To
 recipient_cc = message.CC
 recipient_bcc = message.BCC
 email_subject = message.Subject
-email_body = message.Body
+email_body = message.Body  # raw email body
+# email_body = ' '.join(email_body.split(sep=None))
+email_body = '"' + email_body + '"'
 
 # Add attributes of regular view of email to regular_view_dict
 regular_view_dict['Sender Name'] = sender_name
@@ -68,7 +70,12 @@ regular_view_dict['Body'] = email_body
 # print(f"CC: {recipient_cc}")
 # print(f"BCC: {recipient_bcc}")
 # print(f"Subject: {email_subject}")
-# print(f"Body: {email_body}")
+print(f"Body: {email_body}")
+
+# Add regular_view_dict to csv
+with open('test.csv', 'w') as f:
+    for key in regular_view_dict.keys():
+        f.write("%s,%s \n"%(key,regular_view_dict[key]))
 
 
 ########  LATER  ########
