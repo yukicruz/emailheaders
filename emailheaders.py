@@ -2,6 +2,7 @@ import win32com.client
 import csv
 import re
 import mailbox
+# from mailbox import Mailbox
 
 dict_header = {
     'body': ''
@@ -11,26 +12,79 @@ dict_header_parsed = {
     'Message-ID': ''
 }
 
+header_dict = {}
+regular_view_dict = {}
+
+# Navigate to folder with phishing email
 outlook = win32com.client.Dispatch("Outlook.Application").GetNamespace("MAPI")
 inbox = outlook.GetDefaultFolder(6)
-messages = inbox.Items
+phish_folder = inbox.Folders['PhishTest']
+messages = phish_folder.Items
 message = messages.GetLast()
 mess = message.Body
 
-# pull email header
+# Important parts of email pulled from internet header
 internet_header = message.PropertyAccessor.GetProperty("http://schemas.microsoft.com/mapi/proptag/0x007D001F")
-
-## use Class, db or CSV, and RE
-# pull specific info from email header
 message_id = re.search(r'Message-ID:\s<(.*?)>', internet_header).group(1) # <.*?> Nongreedy: matches "<python>" in "<python>perl>" # https://stackoverflow.com/questions/4666973/how-to-extract-the-substring-between-two-markers
-print("Message ID: " + message_id)
+subject_id = re.search(r'Subject:\s(.*)', internet_header).group(1) # <.*> Greedy repetition: matches "<python>perl>" Link: https://www.tutorialspoint.com/python/python_reg_expressions.htm
 
-# print("\n") #
-# subject_id = re.search(r'Subject:\s(.*)', internet_header).group(1) # <.*> Greedy repetition: matches "<python>perl>" Link: https://www.tutorialspoint.com/python/python_reg_expressions.htm
-msg = mailbox.mboxMessage()
-# subject_id =
-print(msg['Subject'])
-# print("Subject: " + subject_id)
+# Add header attributes to header_dict
+header_dict['Message ID'] = message_id
+header_dict['Subject ID'] = subject_id
+
+# Print sections pulled from internet header
+# print(header_dict)
+# print(f"Internet Header: {internet_header}")
+# print(f"Message ID: {message_id}")
+# print(f"Subject: {subject_id}")
+
+
+# Sections pulled from regular email
+sender_name = message.SenderName
+sender_email_address = message.SenderEmailAddress
+date_sent = message.SentOn
+recipient_to = message.To
+recipient_cc = message.CC
+recipient_bcc = message.BCC
+email_subject = message.Subject
+email_body = message.Body
+
+# Add attributes of regular view of email to regular_view_dict
+regular_view_dict['Sender Name'] = sender_name
+regular_view_dict['Sender Email Address'] = sender_email_address
+regular_view_dict['Date sent'] = date_sent
+regular_view_dict['Recipients (To)'] = recipient_to
+regular_view_dict['Recipients (CC)'] = recipient_cc
+regular_view_dict['Recipients (BCC)'] = recipient_bcc
+regular_view_dict['Subject'] = email_subject
+regular_view_dict['Body'] = email_body
+
+# Print sections pulled from regular email
+# print(regular_view_dict)
+# print(f"Sender Name: {sender_name}")
+# print(f"Sender Email Address: {sender_email_address}")
+# print(f"Date sent: {date_sent}")
+# print(f"To: {recipient_to}")
+# print(f"CC: {recipient_cc}")
+# print(f"BCC: {recipient_bcc}")
+# print(f"Subject: {email_subject}")
+# print(f"Body: {email_body}")
+
+
+########  LATER  ########
+# Print parts of email ## use Class, db or CSV, and RE
+
+## module: mailbox
+# outlookm = mailbox.mboxMessage(outlook)
+
+## wrapper: mail-parser
+# import mailparser
+
+# mail = mailparser.parse_from_bytes(byte_mail)
+# mail = mailparser.parse_from_file(f)
+# mail = mailparser.parse_from_file_msg(outlook_mail)
+# mail = mailparser.parse_from_file_obj(fp)
+# mail = mailparser.parse_from_string(raw_mail)
 
 # print(mess)
 # with open('headers.csv', 'w', newline='') as csvfile:
