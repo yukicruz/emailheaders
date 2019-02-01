@@ -20,13 +20,28 @@ outlook = win32com.client.Dispatch("Outlook.Application").GetNamespace("MAPI")
 inbox = outlook.GetDefaultFolder(6)
 phish_folder = inbox.Folders['PhishTest']
 messages = phish_folder.Items
-message = messages.GetLast()
+# message = messages[0]  # messages[0] accesses the oldest email in the folder; messages[1] would access the 2nd oldest email in the folder
+message = messages[4]  # Access the [nth] email in the folder; 0 is the oldest, n is the newest
+# message = messages.GetLast()  # Access the newest email in the folder
 mess = message.Body
 
 # Important parts of email pulled from internet header
 internet_header = message.PropertyAccessor.GetProperty("http://schemas.microsoft.com/mapi/proptag/0x007D001F")
 message_id = re.search(r'Message-ID:\s<(.*?)>', internet_header).group(1) # <.*?> Nongreedy: matches "<python>" in "<python>perl>" # https://stackoverflow.com/questions/4666973/how-to-extract-the-substring-between-two-markers
 subject_id = re.search(r'Subject:\s(.*)', internet_header).group(1) # <.*> Greedy repetition: matches "<python>perl>" Link: https://www.tutorialspoint.com/python/python_reg_expressions.htm
+# origin_ip = re.findall("Received:\sfrom\s.*\((\d+\.\d+\.\d+\.\d+)\)", internet_header)[-1]
+try:
+    origin_ip = re.findall("Received:\sfrom\s.*\((\d+\.\d+\.\d+\.\d+)\)", internet_header)[-1]  # Create list of instances following "Received from:..." and pull the last instance.
+except:
+    origin_ip = "Did not find IP"
+
+try:
+    origin_smtp = re.findall("Authentication-Results-Original:.*smtp\.mailfrom=(.{1,100})\W", internet_header, re.DOTALL)[0]  # The re.DOTALL flag tells python to make the ‘.’ special character match all characters, including newline characters
+except:
+    origin_smtp = "Did not find SMTP"
+
+
+
 
 # Add header attributes to header_dict
 header_dict['Message ID'] = message_id
@@ -36,10 +51,12 @@ header_dict['Subject ID'] = subject_id
 # print(header_dict)
 # print(f"Internet Header: {internet_header}")
 # print(f"Message ID: {message_id}")
-# print(f"Subject: {subject_id}")
+print(f"Subject: {subject_id}")
+print(f"Originating IP: {origin_ip}")
+print(f"Originating SMTP: {origin_smtp}")
 
 
-# Sections pulled from regular email
+# Sections pulled from regular email (aka User-specified details)
 sender_name = message.SenderName
 sender_email_address = message.SenderEmailAddress
 date_sent = message.SentOn
@@ -70,7 +87,7 @@ regular_view_dict['Body'] = email_body
 # print(f"CC: {recipient_cc}")
 # print(f"BCC: {recipient_bcc}")
 # print(f"Subject: {email_subject}")
-print(f"Body: {email_body}")
+# print(f"Body: {email_body}")
 
 # Add regular_view_dict to csv
 with open('test.csv', 'w') as f:
