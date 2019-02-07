@@ -36,10 +36,14 @@ except:
     origin_ip = "Did not find IP"
 
 try:
-    origin_smtp = re.findall("Authentication-Results-Original:.*smtp\.mailfrom=(.{1,100})\W", internet_header, re.DOTALL)[0]  # The re.DOTALL flag tells python to make the ‘.’ special character match all characters, including newline characters
+    origin_smtp = re.findall("Authentication-Results-Original:.*smtp\.mailfrom=([^\s]*);", internet_header, re.DOTALL)[0]  # The re.DOTALL flag tells python to make the ‘.’ special character match all characters, including newline characters
 except:
     origin_smtp = "Did not find SMTP"
 
+ipAddresses = re.findall(r"\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b", internet_header, re.DOTALL)
+
+#Removing all empty sublists
+# ipAddresses = list(filter(None, ipAddresses))
 
 
 
@@ -54,7 +58,7 @@ header_dict['Subject ID'] = subject_id
 print(f"Subject: {subject_id}")
 print(f"Originating IP: {origin_ip}")
 print(f"Originating SMTP: {origin_smtp}")
-
+print(f"ipAddresses: {ipAddresses}")
 
 # Sections pulled from regular email (aka User-specified details)
 sender_name = message.SenderName
