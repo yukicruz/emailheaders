@@ -21,7 +21,7 @@ inbox = outlook.GetDefaultFolder(6)
 phish_folder = inbox.Folders['PhishTest']
 messages = phish_folder.Items
 # message = messages[0]  # messages[0] accesses the oldest email in the folder; messages[1] would access the 2nd oldest email in the folder
-message = messages[4]  # Access the [nth] email in the folder; 0 is the oldest, n is the newest
+message = messages[0]  # Access the [nth] email in the folder; 0 is the oldest, n is the newest
 # message = messages.GetLast()  # Access the newest email in the folder
 mess = message.Body
 
@@ -40,6 +40,11 @@ try:
 except:
     origin_smtp = "Did not find SMTP"
 
+try:
+    email_addresses = re.findall("[\w\.-]+@[\w\.-]+", internet_header, re.DOTALL)
+except:
+    email_addresses = "Did not find email addresses."
+
 ipAddresses = re.findall(r"\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b", internet_header, re.DOTALL)
 
 #Removing all empty sublists
@@ -50,6 +55,10 @@ ipAddresses = re.findall(r"\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b", internet_hea
 # Add header attributes to header_dict
 header_dict['Message ID'] = message_id
 header_dict['Subject ID'] = subject_id
+header_dict['Originating IP'] = origin_ip
+header_dict['Originating SMTP'] = origin_smtp
+header_dict['Email Addresses'] = email_addresses
+header_dict['IP Addresses'] = ipAddresses
 
 # Print sections pulled from internet header
 # print(header_dict)
@@ -59,6 +68,7 @@ print(f"Subject: {subject_id}")
 print(f"Originating IP: {origin_ip}")
 print(f"Originating SMTP: {origin_smtp}")
 print(f"ipAddresses: {ipAddresses}")
+print(f"Email Addresses: {email_addresses}")
 
 # Sections pulled from regular email (aka User-specified details)
 sender_name = message.SenderName
@@ -97,7 +107,8 @@ regular_view_dict['Body'] = email_body
 with open('test.csv', 'w') as f:
     for key in regular_view_dict.keys():
         f.write("%s,%s \n"%(key,regular_view_dict[key]))
-
+    for key in header_dict.keys():
+        f.write("%s,%s \n"%(key,header_dict[key]))
 
 ########  LATER  ########
 # Print parts of email ## use Class, db or CSV, and RE
